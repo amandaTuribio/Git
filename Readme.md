@@ -1,3 +1,5 @@
 #git curso
 
-Novo texto 
+Novo texto
+
+git show  
